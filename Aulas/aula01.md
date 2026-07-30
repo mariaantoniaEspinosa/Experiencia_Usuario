@@ -19,3 +19,23 @@ comunicação
 tranquilidade e produtividade
 - “É a parte de um sistema computacional com a qual uma pessoa entra em contato
 física, perceptiva e conceitualmente.” Moran
+### Atividade
+- Ler "Evolução das IHC"
+- Ler "Metáforas"
+  - achar definição
+  - achar tipos
+## Evolução das IHC
+- Na primeira fase da história do computador, a interação era feita de modo não amigável, diretamente no hardware, movendo cabos e chaves.
+- Na segunda fase, começou o surgimento dos monitores monocromáticos, computadores passaram a deixar de ser uma exclusividade de cientistas.
+- Na terceira fase, iniciou-se a “era do computador pessoal”, tratava-se de uma interface semelhante à que temos hoje, entretanto, com poucos recursos e não tão bonita.
+- Na quarta fase, tem-se estudado novas maneiras de interagir com os computadores, de formas cada vez mais naturais e intuitivas. Novos tipos de interfaces da quarta fase:
+  - Realidade virtual
+  - Interfaces tangíveis
+  - Computação vestível
+  - Interfaces orgânicas
+  - Interfaces humano computador
+- Preocupação com o Usuário:
+  - No primeiro momento, somente os cientistas conseguiam manipular a máquina;
+  - No segundo momento, a preocupação foi focalizada no desenvolvimento das tecnologias;
+  - A partir do terceiro momento que houve uma preocupação com as pessoas, surgindo tecnologias para utilização no mundo real;
+  -  No quarto momento, começou existir uma maior preocupação com as pessoas, suas necessidades e suas características;
