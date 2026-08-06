@@ -36,3 +36,37 @@
   - como os usuários usam seus computadores
 - Desenvolvedores nem sempre conhecem seus usuários, mas sim muito sobre computadores (modelo mental)
 - Analisar fatores humanos críticos ao projeto de interface: quais os objetivos do usuário? qual seu perfil?
+- Considerar: usuário como *parte integrante do sistema* e usuário que necessita de *múltiplos estilos de interface*
+# Usuário como parte integrante do sistema
+- Interface é desenvolvida para compatibilizar as necessidades do usuário com as capacidades do computador
+- Objetivos do usuário:
+  - quais são os seus objetivos como usuário do computador?
+  - Quais são os objetivos de usuários de programas desenvolvidos por você?
+  - Você entendeu esses objetivos?
+- Atendendo os objetivos do usuário pode-se aumentar
+  - produtividade
+  - exatidão
+  - satisfação
+  - segurança com o computador
+- Os usuários têm diferentes objetivos, depende de quem são e do que estão fazendo
+  -a interface deve estar de acordo - fácil de usar e aprender
+- Não há interface perfeita pois os usuários estão constantemente mudando seus objetivos de acordo com as tarefas que eles  realizam
+- Diferentes técnicas de interface são mais apropriadas para diferentes tarefas
+### Modelos Mentais
+- usuário
+- programador
+- projetista
+### Modelo do Usuário
+- crianças
+- adultos
+- baseado na experiência e expectativa
+### Modelo do Programador
+- mais fácil de visualizar
+- envolve: plataforma de desenvolvimento, sistema operacional, ferramentas de desenvolvimento, diretrizes de programação e especificações necessárias para construção de software
+### Modelo do Projetista
+- mapeia o modelo do usuário e do programador para o modelo do sistema
+### Projeto de Interfaces
+- visibilidade e propriedades dos objetivos
+- bom modelo conceitual
+- bom mapeamento
+- feedback
