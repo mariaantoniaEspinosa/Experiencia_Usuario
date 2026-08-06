@@ -70,3 +70,28 @@
 - bom modelo conceitual
 - bom mapeamento
 - feedback
+
+# O que são Padrões Sombrios?
+- Empresas priorizando exclusivamente suas metas em detrimento do bem-estar de sus usuários
+- são criadas para ludibriar os usuários do site em benefício próprio
+-  quaisquer artifícios antiéticos de Web Design elaborados para confundir e enganar os usuários, forçando-os a tomar atitudes contrárias à sua vontade em prol dos interesses comerciais
+- Padrões Sombrios simplesmente frustram o público e os potenciais usuários até que eles abandonem a marca definitivamente
+
+## Padrões sombrios X experiência do usuário ruim
+- uma má Experiência do Usuário ocorre de forma acidental
+- padrões Sombrios são projetados intencionalmente para favorecer os interesses da marca às custas do usuário
+  - Experiência do Usuário ruim: processos de checkout confusos.
+  - Padrões Sombrios: dificulta propositalmente a localização do botão de fechar um pop-up.
+### As doze categorias distintas de Padrões Sombrios
+1. Perguntas Capciosas
+2. Esgueirar-se ao Carrinho
+3. Hotel de Baratas
+4. Privacy Zuckering
+5. Prevenção de comparação de preços
+6. Desvio de atenção
+7. Custos Ocultos
+8. Isca e troca
+9. Culpabilizar
+10. Anúncios disfarçados
+11. Continuidade Forçada
+12. Spam Amigo
