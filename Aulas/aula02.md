@@ -82,7 +82,7 @@
 - padrões Sombrios são projetados intencionalmente para favorecer os interesses da marca às custas do usuário
   - Experiência do Usuário ruim: processos de checkout confusos.
   - Padrões Sombrios: dificulta propositalmente a localização do botão de fechar um pop-up.
-### As doze categorias distintas de Padrões Sombrios
+### As doze categorias distintas de Padrões Sombrios - Harry Brignull
 1. Perguntas Capciosas
 2. Esgueirar-se ao Carrinho
 3. Hotel de Baratas
@@ -95,3 +95,6 @@
 10. Anúncios disfarçados
 11. Continuidade Forçada
 12. Spam Amigo
+### Fontes - Padrões Sombrios
+- https://psicologia.design/o-que-sao-padroes-sombrios-dark-patterns-ou-deceptive-design/
+- https://aurumpublicacoes.com/index.php/editora/article/view/641/696
