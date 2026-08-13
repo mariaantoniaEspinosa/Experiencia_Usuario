@@ -119,3 +119,6 @@
   - o tempo de desbotamento d um item (d)
   - tipo do código utilizado na gravação: físico, acústico, visual, semântico (k)
 - Processador é o tempo de ciclo (t)
+
+### PARTE III
+- Descreva o Processamento Humano, a partir do MPIH de um usuário ao perceber um erro em sua interação com um sistema
