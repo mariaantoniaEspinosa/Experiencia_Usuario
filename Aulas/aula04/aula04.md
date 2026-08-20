@@ -15,3 +15,18 @@
     - Pressionar um botão de confirmação.
     - Reiniciar o sistema.
     - Essa resposta fecha o ciclo “Reconhece–Age”.
+# Aula 04
+- **MPIH**
+  - Ciclo Reconhece - Age
+  - Subsistemas
+    - Perceptual
+      - Proc. Perceptual
+      - Memória imagem
+        - Visual
+        - Auditivo
+    - Cognitivo
+      - Proc. Cognitivo
+      - Memória de Longa Duração
+      - Memória de Curta Duração ou de Trabalho
+    - Motor
+      - Proc. Motor
