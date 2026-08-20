@@ -30,3 +30,19 @@
       - Memória de Curta Duração ou de Trabalho
     - Motor
       - Proc. Motor
+## Experiência do Usuário (UX)
+- Donald Norman - Apple
+- A UX é o resultado de uma tentativa de resumir o conjunto de fatores que envolvem o usuários quando em contato com um produto, serviço ou ambiente.
+- UX: abrangente, acontece no cotidiano
+- UX: mundo real ou digital
+  - em ambas acontece por meio de uma Interface
+  - origina-se a partir da interação das pessoas com artefatos
+  - fenômeno cujas ocorrências podem ser observadas, avaliadas e aprimoradas pelo pojetista
+### Experiência do Usuário (UX) não é Interface Usuário (IU)
+- Projetar as telas e o layout, organizar os elementos e pensar os comportamento destes são atividades técnicas
+- O projeto da interface, sua disposição/organização, tipografia e ícones utilizados, são questão de programação visual
+- Influenciam na experiência do usuário
+- Os resultados coletados sobre a experiência dos usuários interferem no projeto da interface
+
+<img width="566" height="320" alt="image" src="https://github.com/user-attachments/assets/abf5a3de-d0cd-4aec-b9b3-0f5fe80da199" />
+
