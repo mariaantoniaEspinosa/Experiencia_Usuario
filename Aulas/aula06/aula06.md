@@ -41,8 +41,11 @@
 - Aplicativo ou sistema é um ponto de contato da marca com o cliente
 - O produto deve expressar as qualidades da marca e seus valores
 - as práticas adotadas pelas organizações perante seus públicos revelam as mesmas características atitudinais: atribuem um tipo de personalidade e propõem arquétipos
-
+- PÁGINA 109: tipos de arquétipos
+- Obs: Escolher um para ler!
+ 
 <img width="595" height="459" alt="image" src="https://github.com/user-attachments/assets/edd8a1ce-e622-4035-af58-5328739cf352" />
+
 
 
 
