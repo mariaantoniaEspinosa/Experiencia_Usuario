@@ -1,2 +1,33 @@
 # Avaliação da Usabilidade
 - Norma ABNT ISO 9241-11 (2021)
+  - Orientações sobre Usabilidade
+    - Objetivos dos usuários sendo alcançados
+    - Desempenho
+    - Satisfação
+    - Critério de Qualidade de software
+        - eficácia - objetivos
+        - eficiência - objetivos
+        - satisfação - subjetivo
+- Definições:
+    - C - usuário
+    - O
+    - N - tarefa
+    - T - equipamentos
+    - E - ambiente físico
+    - X
+    - T
+    - O
+## Definir brevemente cada um dos conceitos:
+- Usabilidade: Medida na qual um produto pode ser usado por usuários específicos para alcançar objetivos específicos com eficácia, eficiência e satisfação em um contexto específico de uso.
+- Eficácia: Acurácia e completude com as quais usuários alcançam objetivos específicos.
+- Eficiência: Recursos gastos em relação à acurácia e abrangência com as quais usuários atingem objetivos
+- Satisfação: Ausência do desconforto e presença de atitudes positivas para com o uso de um produto.
+- Contexto de Uso: Usuários, tarefas, equipamento (hardware, software e materiais), e o ambiente físico e social no qual um produto é usado.
+- Sistema de Trabalho:  Sistema, composto de usuários, equipamento, tarefas e o ambiente físico e social, com o propósito de alcançar objetivos específicos
+- Usuário: Pessoa que interage com o produto.
+- Objetivo: Resultado pretendido.
+- Tarefa: Conjunto de ações necessárias para alcançar um objetivo.
+- Produto: Parte do equipamento (hardware, software e materiais) para o qual a usabilidade é especificada ou avaliada.
+- Medida: Valor resultante da medição e o processo usado para obter tal valor
+- Estrutura da Usabilidade:
+ <img width="502" height="296" alt="image" src="https://github.com/user-attachments/assets/1ef2819f-aacb-445a-bf36-8a30d3672656" />
