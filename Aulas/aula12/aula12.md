@@ -10,4 +10,9 @@
        - 2 fases
          - preparatória
          - análise
-      - Inspeção 
+      - Inspeção Preventivas de Erros
+   - Avaliações analíticas 
+   - Checklist → listas de verificação → critérios ergonômicos
+3) Empíricas
+   - ensaio de interação
+   - sistemas de monitoramento 
